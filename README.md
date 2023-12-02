@@ -22,6 +22,7 @@ import math
 x1,y1 = 4,2
 x2,y2 = 10,6
 distance = math.sqrt((x2-x1)**2+(y2-y1)**2)
+<<<<<<< HEAD
 print(round(distance,2))  
 ~~~
 ### OUTPUT:
@@ -29,3 +30,15 @@ print(round(distance,2))
 
 ### RESULT:
 Thus the distance between two points are successfully executed
+=======
+print(round(distance,2))
+~~~
+  
+
+
+### OUTPUT:
+![output](/distance_output.png)
+
+### RESULT:
+Thus the distance between two points are successfully executed
+>>>>>>> 156bc19543d9a8164d5e9c9059d8c8cc6cf0c213
